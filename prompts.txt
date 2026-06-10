@@ -1,0 +1,96 @@
+AI Prompts Used to Build This Project
+======================================
+Date: 2026-06-10
+Tool: Antigravity AI Coding Assistant (Google DeepMind)
+Project: 2D Graphics Editor in C (miniproject)
+
+All prompts sent by the student to the AI during this project session:
+----------------------------------------------------------------------
+
+PROMPT 1:
+---------
+Create a complete C project for a menu-driven 2D Graphics Editor using a 2D character array
+as the drawing canvas. The canvas should be initialized with the character '_' (underscore),
+and graphical objects should be drawn using the character '*' (asterisk).
+
+Requirements:
+1. Implement functions to draw the following shapes:
+   - Circle
+   - Rectangle
+   - Line
+   - Triangle
+
+2. Provide menu options that allow the user to:
+   - Add objects to the picture
+   - Delete objects from the picture
+   - Modify objects in the picture
+   - Display the picture
+
+3. Use a 2D array of characters to store the picture state. The array should update dynamically
+   as objects are added, deleted, or modified.
+
+4. Write a function to display the picture in the console, showing the canvas with '_' for
+   empty spaces and '*' for drawn objects.
+
+5. Ensure the program is modular:
+   - Separate functions for each shape (circle, rectangle, line, triangle).
+   - Functions for add, delete, modify, and display operations.
+   - A main menu loop to interact with the user.
+
+6. The code should be original, complete, and compilable in standard C (gcc). Include comments
+   explaining each function.
+
+7. Prepare the project so it can be pushed daily to GitHub:
+   - Include a README.md describing the project, usage instructions, and compilation steps.
+   - Ensure the repository structure is clean (source files, headers if needed, README).
+
+Evaluation rubric alignment:
+- Original and complete implementation = 5 marks.
+- Avoid plagiarism or copied code.
+- Daily pushes to GitHub are mandatory.
+
+Deliverables:
+- Full C source code implementing the graphics editor.
+- README.md with instructions.
+- GitHub-ready repository structure.
+
+----------------------------------------------------------------------
+
+PROMPT 2:
+---------
+(User approved the implementation plan)
+
+----------------------------------------------------------------------
+
+PROMPT 3:
+---------
+run this
+
+----------------------------------------------------------------------
+
+PROMPT 4:
+---------
+option 2
+
+----------------------------------------------------------------------
+
+PROMPT 5:
+---------
+if it right?
+
+----------------------------------------------------------------------
+
+PROMPT 6:
+---------
+push it to github
+
+----------------------------------------------------------------------
+
+PROMPT 7:
+---------
+my proff asked me to add another file in my git hub repo so just make it a text file
+with all the promts
+
+----------------------------------------------------------------------
+
+END OF PROMPTS
